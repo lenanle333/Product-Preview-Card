@@ -6,7 +6,9 @@ A static preview card for a perfume created with HTML and Sass. This project sho
 
 ### Product Preview Card
 
-![Product Preview Card](https://github.com/lenanle333/Blog-Preview-Card/blob/473cab47249e448d48436c935cb1d245716b3452/Screenshot/Blog%20preview%20card%20screenshot.jpeg)
+![Product Preview Card | Desktop](https://github.com/lenanle333/Product-Preview-Card/blob/5d953c46758eac230209b98195297769d3dccfd1/assets/screenshots/Product%20preview%20card%20-%20Desktop%20.jpeg)
+
+![Product Preview Card | Mobile](https://github.com/lenanle333/Product-Preview-Card/blob/5d953c46758eac230209b98195297769d3dccfd1/assets/screenshots/Product%20preview%20card%20-%20Mobile.jpeg)
 
 ## Disclaimer
 
